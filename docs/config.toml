@@ -82,7 +82,7 @@ enableEmoji = 'true'
 
     [languages.en.params.logo]
       logoText = "aniabot.github.io"
-        logoHomeLink = "/"
+      logoHomeLink = "/"
 
     [languages.en.menu]
      [[languages.en.menu.main]]
