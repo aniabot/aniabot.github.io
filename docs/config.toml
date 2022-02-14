@@ -9,7 +9,7 @@ enableEmoji = 'true'
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "/"
+  contentTypeName = "content/"
 
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "red"
@@ -82,7 +82,7 @@ enableEmoji = 'true'
 
     [languages.en.params.logo]
       logoText = "aniabot.github.io"
-      logoHomeLink = "/"
+        logoHomeLink = "/"
 
     [languages.en.menu]
      [[languages.en.menu.main]]
