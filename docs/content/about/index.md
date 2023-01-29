@@ -9,7 +9,7 @@ draft: false
 I'm a math & language nerd turned software engineer turned technical product manager, currently working at [Bloomberg](http://techatbloomberg.com).
 
 ## :phone: Contact
-*  email: ania.m.musial@gmail.com
+* email: ania.m.musial@gmail.com
 * github: [@aniabot](http://github.com/aniabot) (you're here!)
 * linkedin: [aniamusial](https://www.linkedin.com/in/aniamusial/)
 
@@ -17,7 +17,7 @@ I'm a math & language nerd turned software engineer turned technical product man
 
 | Technical Product Manager & Tech Architect, CTO ML Product & Research, Bloomberg (May 2021 - present)|
 | --- | 
-| **Guide the strategic direction** for AI, ML, NLP, and [Data Science](https://www.techatbloomberg.com/post-topic/data-science/) infrastructure, in partnership with counterparts in the office of the [CTO](https://thestack.technology/bloomberg-cto-shawn-edwards-interview/). **Technical Product Manager** for a suite of infrastructure products to deliver a state-of-the-art Machine Learning developer experience, most notably an internal Data Science Platform -- providing cloudy, production-grade MLOps tooling for critical AI-driven applications. |
+| **Guide the strategic direction** for [AI, ML, NLP](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/), and [Data Science](https://www.techatbloomberg.com/post-topic/data-science/) infrastructure, in partnership with counterparts in the office of the [CTO](https://thestack.technology/bloomberg-cto-shawn-edwards-interview/). **Technical Product Manager** for a suite of infrastructure products to deliver a state-of-the-art Machine Learning developer experience, most notably an internal Data Science Platform -- providing cloudy, production-grade MLOps tooling for critical AI-driven applications. |
 
 | Senior Software Engineer, ENG AI - ML Platform, Bloomberg (May 2017 - May 2021)|
 | --- | 
@@ -26,7 +26,7 @@ I'm a math & language nerd turned software engineer turned technical product man
 | _Kubernetes, Docker, Jupyter, Python, Flask, Postgres_ |
 
 | Senior Software Engineer, ENG Relevance & Discovery, Bloomberg (Mar 2015 - May 2017) |
-| --- | 
+| --- |
 | **Design & development** of infrastructure in the domain of information retrieval: context-aware recommendation systems, personalization, relevance, search result ranking, etc. for applications on the Bloomberg Terminal. |
 | **Advocate** for new technologies & developer needs; hiring of junior & senior developers. |
 | _Python, Spark, Hadoop/HDFS, MapReduce, Oozie_ |
@@ -47,6 +47,13 @@ I'm a math & language nerd turned software engineer turned technical product man
 | [FastPath 2020](https://fastpath2020.github.io/Program.html), International Workshop on Performance Analysis of Machine Learning Systems. |
 | [KubeCon + CloudNativeCon North America 2018](https://fastpath2020.github.io/Program.html) |
 | [Linux Foundation Open FinTech Forum 2018](https://sched.co/G4k7) |
+
+# :trophy: Achievements
+
+| Awards |
+| --- |
+| [Engineer/Programmer of the Year](https://www.waterstechnology.com/awards-rankings/7939086/witad-awards-2022-engineerprogrammer-of-the-year-ania-musial-bloomberg), Witad Awards 2022 |
+
 
 # :school: Education
 
