@@ -15,9 +15,13 @@ I'm a math & language nerd turned software engineer turned technical product man
 
 # :office: Experience
 
-| Technical Product Manager & Tech Architect, CTO ML Product & Research, Bloomberg (May 2021 - present)|
+| Product Team Lead, CTO ML Platforms, CTO ML Product & Research, Bloomberg (May 2023 - Present) |
+| --- |
+| **Guide the strategic direction** for [AI, ML, NLP](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/), and [Data Science](https://www.techatbloomberg.com/post-topic/data-science/) infrastructure, in partnership with counterparts in the office of the [CTO](https://thestack.technology/bloomberg-cto-shawn-edwards-interview/) and Engineering. **Manager** of CTO Machine Learning Platforms product group driving vision, strategy, execution for internal Machine Learning infrastructure. |
+
+| Technical Product Manager & Tech Architect, CTO ML Product & Research, Bloomberg (May 2021 - May 2023)|
 | --- | 
-| **Guide the strategic direction** for [AI, ML, NLP](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/), and [Data Science](https://www.techatbloomberg.com/post-topic/data-science/) infrastructure, in partnership with counterparts in the office of the [CTO](https://thestack.technology/bloomberg-cto-shawn-edwards-interview/). **Technical Product Manager** for a suite of infrastructure products to deliver a state-of-the-art Machine Learning developer experience, most notably an internal Data Science Platform -- providing cloudy, production-grade MLOps tooling for critical AI-driven applications. |
+|  **Technical Product Manager** for a suite of infrastructure products to deliver a state-of-the-art Machine Learning developer experience, most notably an internal Data Science Platform -- providing cloudy, production-grade MLOps tooling for critical AI-driven applications. |
 
 | Senior Software Engineer, ENG AI - ML Platform, Bloomberg (May 2017 - May 2021)|
 | --- | 
