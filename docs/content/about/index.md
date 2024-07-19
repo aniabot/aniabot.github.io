@@ -15,7 +15,7 @@ I'm a math & language nerd turned software engineer turned technical product man
 
 # :office: Experience
 
-| Product Team Lead, CTO ML Platforms, CTO ML Product & Research, Bloomberg (May 2023 - Present) |
+| Product Team Lead, CTO ML Platforms, CTO AI Strategy & Research, Bloomberg (May 2023 - Present) |
 | --- |
 | **Guide the strategic direction** for [AI, ML, NLP](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/), and [Data Science](https://www.techatbloomberg.com/post-topic/data-science/) infrastructure, in partnership with counterparts in the office of the [CTO](https://thestack.technology/bloomberg-cto-shawn-edwards-interview/) and Engineering. **Manager** of CTO Machine Learning Platforms product group driving vision, strategy, execution for internal Machine Learning infrastructure. |
 
